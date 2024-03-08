@@ -1,0 +1,76 @@
+html{
+    background-color: #333333;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-weight: bold;
+}
+
+h1{
+    color: black;
+    font-size: 45px;
+    display: flex;
+}
+
+ul li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+
+a:hover{ 
+    color: #333333;
+}
+
+.Cosilla h1{
+    color: white;
+}
+.Cosilla{
+    background-color: black;
+}
+
+.Cosilla h1{
+    font-size: 1.5rem;
+}
+
+header{
+    display: flex;
+    height: 70px;
+    background-color: #969696;
+}
+
+.Indicaciones{
+    width: 400px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 15px;
+}
+
+.Indicaciones Indicaciones{
+    display: flex;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
+
+/*CENTRA TODO EL CUADRADO*/
+.contenedor-externo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Images{
+    text-align: center;
+}
+
